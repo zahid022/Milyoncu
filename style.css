@@ -68,7 +68,7 @@ li{
 }
 
 #content {
-    height: 90vh;
+    max-height: 90vh;
     min-width: 90%;
     max-width: 90%;
     background: rgb(99, 25, 237);
